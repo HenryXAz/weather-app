@@ -1,0 +1,33 @@
+.mainInfo {
+    background-color: #0F172A;
+    padding: 40px;
+    color: #eee;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.city {
+    font-size: 32px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.country {
+    font-size: 20px;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.condition {
+    font-size: 24px;
+}
+
+.current {
+    font-size: 38px;
+    font-weight: 700;
+}
